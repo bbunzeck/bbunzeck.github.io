@@ -1,0 +1,5 @@
+# Research
+
+I am interested in the dialectic relationship between (especially usage-based and cognitive approaches to) linguistics on the one hand, and natural language processing on the other hand. The neural turn in NLP has realized many ideas already proposed much earlier in the connectionist literature and its approaches to cognitive modelling. Yet, it remains elusive how well new, state-of-the-art models and the cognitive/linguistic reality actually map to one another. In my research, I aim to use insights from linguistics to test and improve neural modelling. Moreover, I am also interested in the ways in which computational models allow us to analyze more data in faster and more reliable ways, for example for questions of psycholinguistic processing or language acquisition.
+
+As a philologist *qua* education, I also sometimes engage with questions in the digital humanities.
