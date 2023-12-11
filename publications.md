@@ -17,5 +17,5 @@
 
 ## Poster presentations
 ### 2023
-- GPT-wee: How Small Can a Small Language Model Really Get?, 27th Conference on Computational Natural Language Learning (CoNNL), Singapore
+- (with paper) GPT-wee: How Small Can a Small Language Model Really Get?, 27th Conference on Computational Natural Language Learning, (Singapore)
 - GPT-wee: Experiments in downscaling and curriculum learning, SAIL Workshop on Fundamental Limits of Large Language Models, Bielefeld University (Germany)
