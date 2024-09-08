@@ -1,5 +1,9 @@
 # Teaching
 
+## Winter term 2024/2025
+- Introduction to computational linguistics *(Einführung in die Computerlinguistik)* -- practical sessions, accompanying lectures by Sina Zarrieß
+- Methods of applied computational linguistics *(Methoden der angewandten Computerlinguistik)* -- lectures and practical sessions
+
 ## Summer term 2024
 - Methods of applied computational linguistics *(Methoden der angewandten Computerlinguistik)* -- lectures and practical sessions
 - Neuronal nets in language technology *(Neuronale Netze in der Sprachverarbeitung)* -- practical sessions, accompanying lectures by Sina Zarrieß 
