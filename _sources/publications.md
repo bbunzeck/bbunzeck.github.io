@@ -10,7 +10,11 @@
 
 ## Presentations
 
+### 2024
+- *Constructions in child-directed speech*, (peer-reviewed oral presentation), 10th International Conference of the German Cognitive Linguistics Association, Osnabrück University (Germany)
+- *Generating authentic child speech from little data*, (poster presentation), NLG in the Lowlands 2024, Bielefeld University (Germany)
+
 ### 2023
-- GPT-wee: Experiments in downscaling and curriculum learning, (poster presentation), SAIL Workshop on Fundamental Limits of Large Language Models, Bielefeld University (Germany)
+- *GPT-wee: Experiments in downscaling and curriculum learning*, (poster presentation), SAIL Workshop on Fundamental Limits of Large Language Models, Bielefeld University (Germany)
 - *From Byte to Babel: Large Language Models and the Tower of Linguistic Knowledge*, (oral presentation), META-LING 2023 - Methodological Exploration and Technological Advances in Linguistics, University of Bamberg (Germany)
 - *Where and How Do Literary Characters Figure in Wikipedia?* (with Sina Zarrieß), (oral presentation), International Workshop | Wikipedia, Wikidata and Wikibase: Usage Scenarios for Literary Studies, Free University of Berlin (Germany)
