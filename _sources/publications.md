@@ -11,7 +11,7 @@
 ## Presentations
 
 ### 2024
-- *Constructions in child-directed speech*, (peer-reviewed oral presentation), 10th International Conference of the German Cognitive Linguistics Association, Osnabrück University (Germany)
+- *Constructions in child-directed speech* (with Holger Diessel), (peer-reviewed oral presentation), 10th International Conference of the German Cognitive Linguistics Association, Osnabrück University (Germany)
 - *Generating authentic child speech from little data*, (poster presentation), NLG in the Lowlands 2024, Bielefeld University (Germany)
 
 ### 2023
