@@ -1,6 +1,6 @@
 # Publications and presentations
 
-For an up-to-date list, also check my (Google Scholar)[https://scholar.google.de/citations?user=yALZ_7kAAAAJ&hl] page.
+For an up-to-date list, also check my [Google Scholar](https://scholar.google.de/citations?user=yALZ_7kAAAAJ&hl) page.
 
 ## Publications (peer-reviewed)
 
