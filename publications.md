@@ -2,6 +2,11 @@
 
 For an up-to-date list, also check my [Google Scholar](https://scholar.google.de/citations?user=yALZ_7kAAAAJ&hl) page.
 
+## Preprints
+
+### 2024
+- **Bastian Bunzeck**, Daniel Duran, Leonie Schade, and Sina Zarrieß. 2024. Small Language Models Like Small Vocabularies: Probing the Linguistic Abilities of Grapheme- and Phoneme-Based Baby Llamas. https://arxiv.org/abs/2410.01487
+
 ## Publications (peer-reviewed)
 
 ### 2023
