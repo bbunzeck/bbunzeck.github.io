@@ -23,5 +23,5 @@ For an up-to-date list, also check my [Google Scholar](https://scholar.google.de
 
 ### 2023
 - *GPT-wee: Experiments in downscaling and curriculum learning*, (poster presentation), SAIL Workshop on Fundamental Limits of Large Language Models, Bielefeld University (Germany)
-- *From Byte to Babel: Large Language Models and the Tower of Linguistic Knowledge*, (oral presentation), META-LING 2023 - Methodological Exploration and Technological Advances in Linguistics, University of Bamberg (Germany)
-- *Where and How Do Literary Characters Figure in Wikipedia?* (with Sina Zarrieß), (oral presentation), International Workshop | Wikipedia, Wikidata and Wikibase: Usage Scenarios for Literary Studies, Free University of Berlin (Germany)
+- *From Byte to Babel: Large Language Models and the Tower of Linguistic Knowledge*, (peer-reviewed oral presentation), META-LING 2023 - Methodological Exploration and Technological Advances in Linguistics, University of Bamberg (Germany)
+- *Where and How Do Literary Characters Figure in Wikipedia?* (with Sina Zarrieß), (invited presentation), International Workshop | Wikipedia, Wikidata and Wikibase: Usage Scenarios for Literary Studies, Free University of Berlin (Germany)
