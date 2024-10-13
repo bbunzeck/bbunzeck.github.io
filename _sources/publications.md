@@ -9,8 +9,10 @@ For an up-to-date list, also check my [Google Scholar](https://scholar.google.de
 
 ## Publications (peer-reviewed)
 
-### 2023
+### 2024
 - **Bunzeck, B.**, Zarrieß, S. (2024). Fifty shapes of BLiMP: Syntactic learning curves in language models are not uniform, but sometimes unruly. *Proceedings of the 2024 CLASP Conference on Multimodality and Interaction in Language Learning*, 39–55. https://aclanthology.org/2024.clasp-1.7/
+
+### 2023
 - **Bunzeck, B.**, & Zarrieß S. (2023). GPT-wee: How Small Can a Small Language Model Really Get?. *Proceedings of the BabyLM Challenge at the 27th Conference on Computational Natural Language Learning*, 7–18. https://aclanthology.org/2023.conll-babylm.2/
 - **Bunzeck, B.**, & Zarrieß, S. (2023). Entrenchment matters: Investigating positional and constructional sensitivity in small and large language models. *Proceedings of the 2023 CLASP conference on learning with small data (LSD)*, 25–37. https://aclanthology.org/2023.clasp-1.3
 - Druskat, S., Krause, T., Lachenmaier, C., & **Bunzeck, B.** (2023). Hexatomic: An extensible, OS-independent platform for deep multi-layer linguistic annotation of corpora. *Journal of Open Source Software*, 8(86), 4825. https://doi.org/10.21105/joss.04825
