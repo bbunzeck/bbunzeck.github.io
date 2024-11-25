@@ -22,6 +22,7 @@ For an up-to-date list, also check my [Google Scholar](https://scholar.google.de
 ## Presentations
 
 ### 2024
+- *Fifty shapes of BLiMP: syntactic learning curves in language models are not uniform, but sometimes unruly*, (non-archival poster presentation), BlackboxNLP 2024 at EMNLP 2024, Miami/Florida (US)
 - *Constructions in child-directed speech* (with Holger Diessel), (peer-reviewed oral presentation), 10th International Conference of the German Cognitive Linguistics Association, Osnabrück University (Germany)
 - *Generating authentic child speech from little data*, (poster presentation), NLG in the Lowlands 2024, Bielefeld University (Germany)
 
