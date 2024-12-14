@@ -10,6 +10,7 @@ For an up-to-date list, also check my [Google Scholar](https://scholar.google.de
 ## Publications (peer-reviewed)
 
 ### 2024
+- **Bunzeck, B.**, Diessel, H. (2024). The richness of the stimulus: Constructional variation and development in child-directed speech. *First Language*. https://doi.org/10.1177/01427237241303225
 - **Bunzeck, B.**, Zarrieß, S. (2024). Fifty shapes of BLiMP: Syntactic learning curves in language models are not uniform, but sometimes unruly. *Proceedings of the 2024 CLASP Conference on Multimodality and Interaction in Language Learning*, 39–55. https://aclanthology.org/2024.clasp-1.7/
 - **Bunzeck, B.**, Zarrieß, S. (2024). The SlayQA benchmark of social reasoning: Testing gender-inclusive generalization with neopronouns. *Proceedings of the 2nd GenBench Workshop on Generalisation (Benchmarking) in NLP*, 42–53. https://aclanthology.org/2024.genbench-1.3/
 
