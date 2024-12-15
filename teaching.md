@@ -1,5 +1,8 @@
 # Teaching
 
+## Summer term 2025
+- Neural nets in language technology -- seminar (taught in English)
+
 ## Winter term 2024/2025
 - Introduction to computational linguistics *(Einführung in die Computerlinguistik)* -- practical sessions, accompanying lectures by Sina Zarrieß
 - Methods of applied computational linguistics *(Methoden der angewandten Computerlinguistik)* -- lectures and practical sessions
