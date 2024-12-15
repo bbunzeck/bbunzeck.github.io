@@ -1,6 +1,6 @@
 # Publications and presentations
 
-For an up-to-date list, also check: [Google Scholar](https://scholar.google.de/citations?user=yALZ_7kAAAAJ&hl), [PUB - Publications at Bielefeld University](https://pub.uni-bielefeld.de/person/419963705) and my [ORCID page](https://orcid.org/0000-0002-1832-4068).
+For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/citations?user=yALZ_7kAAAAJ&hl), [PUB - Publications at Bielefeld University](https://pub.uni-bielefeld.de/person/419963705) and my [ORCID page](https://orcid.org/0000-0002-1832-4068).
 
 ## Preprints
 
