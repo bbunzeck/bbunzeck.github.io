@@ -1,24 +1,25 @@
 # Publications and presentations
 
-For an up-to-date list, also check my [Google Scholar](https://scholar.google.de/citations?user=yALZ_7kAAAAJ&hl) page.
+For an up-to-date list, also check: [Google Scholar](https://scholar.google.de/citations?user=yALZ_7kAAAAJ&hl), [PUB - Publications at Bielefeld University](https://pub.uni-bielefeld.de/person/419963705) and my [ORCID page](https://orcid.org/0000-0002-1832-4068).
 
 ## Preprints
 
-### 2024
-- **Bunzeck, B.**, Duran, D., Schade, L., Zarrieß, S. (2024). *Small Language Models Like Small Vocabularies: Probing the Linguistic Abilities of Grapheme- and Phoneme-Based Baby Llamas*. https://arxiv.org/abs/2410.01487
+- **Bastian Bunzeck**, Daniel Duran, Leonie Schade, and Sina Zarrieß. 2024. *Small Language Models Like Small Vocabularies: Probing the Linguistic Abilities of Grapheme-and Phoneme-Based Baby Llamas*. https://arxiv.org/abs/2410.01487
 
-## Publications (peer-reviewed)
+## Conference/Workshop Papers
 
-### 2024
-- **Bunzeck, B.**, Diessel, H. (2024). The richness of the stimulus: Constructional variation and development in child-directed speech. *First Language*. https://doi.org/10.1177/01427237241303225
-- **Bunzeck, B.**, Zarrieß, S. (2024). Fifty shapes of BLiMP: Syntactic learning curves in language models are not uniform, but sometimes unruly. *Proceedings of the 2024 CLASP Conference on Multimodality and Interaction in Language Learning*, 39–55. https://aclanthology.org/2024.clasp-1.7/
-- **Bunzeck, B.**, Zarrieß, S. (2024). The SlayQA benchmark of social reasoning: Testing gender-inclusive generalization with neopronouns. *Proceedings of the 2nd GenBench Workshop on Generalisation (Benchmarking) in NLP*, 42–53. https://aclanthology.org/2024.genbench-1.3/
+- **Bastian Bunzeck** and Sina Zarrieß. 2024. The SlayQA benchmark of social reasoning: Testing gender-inclusive generalization with neopronouns. In *Proceedings of the 2nd GenBench Workshop on Generalisation (Benchmarking) in NLP*, pages 42–53, Miami, Florida, USA. Association for Computational Linguistics. https://aclanthology.org/2024.genbench-1.3/
+- **Bastian Bunzeck** and Sina Zarrieß. 2024. Fifty shapes of BLiMP: Syntactic learning curves in language models are not uniform, but sometimes unruly. In *Proceedings of the 2024 CLASP Conference on Multimodality and Interaction in Language Learning*, pages 39–55, Gothenburg, Sweden. Association for Computational Linguistics. https://aclanthology.org/2024.clasp-1.7/
+- **Bastian Bunzeck** and Sina Zarrieß. 2023. GPT-wee: How small can a small language model really get? In *Proceedings of the BabyLM Challenge at the 27th Conference on Computational Natural Language Learning*, pages 7–18, Singapore. Association for Computational Linguistics. https://aclanthology.org/2023.conll-babylm.2/
+- **Bastian Bunzeck** and Sina Zarrieß. 2023. Entrenchment matters: Investigating positional and constructional sensitivity in small and large language models. In *Proceedings of the 2023 CLASP Conference on Learning with Small Data (LSD)*, pages 25–37, Gothenburg, Sweden. Association for Computational Linguistics. https://aclanthology.org/2023.clasp-1.3
 
-### 2023
-- **Bunzeck, B.**, & Zarrieß S. (2023). GPT-wee: How Small Can a Small Language Model Really Get?. *Proceedings of the BabyLM Challenge at the 27th Conference on Computational Natural Language Learning*, 7–18. https://aclanthology.org/2023.conll-babylm.2/
-- **Bunzeck, B.**, & Zarrieß, S. (2023). Entrenchment matters: Investigating positional and constructional sensitivity in small and large language models. *Proceedings of the 2023 CLASP conference on learning with small data (LSD)*, 25–37. https://aclanthology.org/2023.clasp-1.3
-- Druskat, S., Krause, T., Lachenmaier, C., & **Bunzeck, B.** (2023). Hexatomic: An extensible, OS-independent platform for deep multi-layer linguistic annotation of corpora. *Journal of Open Source Software*, 8(86), 4825. https://doi.org/10.21105/joss.04825
-- Wojcik, P., **Bunzeck, B.**, & Zarrieß, S. (2023). The Wikipedia Republic of Literary Characters. *Journal of Cultural Analytics*, 8(2). https://doi.org/10.22148/001c.70251
+
+## Journal papers
+
+- **Bastian Bunzeck** and Holger Diessel. 2024. The richness of the stimulus: Constructional variation and development in child-directed speech. *First Language*. https://doi.org/10.1177/01427237241303225
+- Paula Wojcik, **Bastian Bunzeck**, and Sina Zarrieß. 2023. The Wikipedia Republic of Literary Characters. *Journal of Cultural Analytics*, 8(2). https://doi.org/10.22148/001c.70251
+- Stephan Druskat, Thomas Krause, Clara Lachenmaier, and **Bastian Bunzeck**. 2023. Hexatomic: An extensible, OS-independent platform for deep multi-layer linguistic annotation of corpora. *Journal of Open Source Software*, 8(86):4825. https://doi.org/10.21105/joss.04825
+
 
 ## Presentations
 
