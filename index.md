@@ -3,7 +3,7 @@ title: Learning language(s)
 subtitle: How humans do and machines can do too.
 author: Bastian Bunzeck
 author-url: "https://bbunzeck.github.io"
-date: 2024-12-30
+date: Dec '24
 lang: en
 toc-title: Contents
 version: v1.0
