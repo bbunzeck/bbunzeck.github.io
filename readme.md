@@ -4,5 +4,5 @@ Usage:
 - install pandoc (https://pandoc.org/)
 - run the following command in terminal of your choice:
 ```
-pandoc --toc -s --css data/reset.css --css data/index.css -i src/index.md -o data/index.html --template=data/template.html
+pandoc --toc -s --css reset.css --css index.css -i index.md -o index.html --template=template.html
 ```
