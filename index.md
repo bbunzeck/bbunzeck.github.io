@@ -3,10 +3,10 @@ title: Learning language(s)
 subtitle: How humans do and machines can do too.
 author: Bastian Bunzeck
 author-url: "https://bbunzeck.github.io"
-date: Dec '24
+date: Feb '25
 lang: en
 toc-title: Contents
-version: v1.0
+version: 🚀.1
 ---
 
 ## About me
@@ -22,6 +22,9 @@ If you are looking for ways to contact me, check out [my page in the Bielefeld U
 
 For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/citations?user=yALZ_7kAAAAJ&hl), [PUB - Publications at Bielefeld University](https://pub.uni-bielefeld.de/person/419963705) and my [ORCID page](https://orcid.org/0000-0002-1832-4068).
 
+#### Preprints
+- **Bastian Bunzeck**, Daniel Duran and Sina Zarrieß. 2025. Do Construction Distributions Shape Formal Language Learning In German BabyLMs? <https://arxiv.org/abs/2503.11593>
+- **Bastian Bunzeck** and Sina Zarrieß. 2025. Subword models struggle with word learning, but surprisal hides it. <https://arxiv.org/abs/2502.12835>
 
 #### Conference/Workshop Papers
 
