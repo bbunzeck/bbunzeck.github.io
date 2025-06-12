@@ -3,17 +3,17 @@ title: Learning language(s)
 subtitle: How humans do and machines can do too.
 author: Bastian Bunzeck
 author-url: "https://bbunzeck.github.io"
-date: Feb '25
+date: Jun '25
 lang: en
 toc-title: Contents
-version: 🚀.1
+version: 🔮.2
 ---
 
 ## About me
 
-Hi! My name is Bastian Bunzeck and I am a second year PhD student at [Bielefeld University](https://www.uni-bielefeld.de/). I work in the Computational Linguistics group ([CLAUSE](https://clause-bielefeld.github.io/)) under the supervision of [Prof. Sina Zarrieß](https://sinazarriess.github.io/). I am also a member of the collaborative research center [(CRC) 1646 -- **L**inguistic **C**reativity in **C**ommunication](https://www.uni-bielefeld.de/sfb/sfb1646/) in Bielefeld. Before my PhD, I studied English/American Studies and Computer Science at [Friedrich Schiller University Jena](https://www.uni-jena.de/) in Germany and [Katholieke Universiteit Leuven](https://www.kuleuven.be/kuleuven/) in Belgium. In Jena I helped to develop a corpus annotation tool in the [Hexatomic project](https://hexatomic.github.io/) and also worked various jobs at the [English department](https://www.iaa.uni-jena.de/).
+Hi! My name is Bastian Bunzeck and I am a second year PhD student at [Bielefeld University](https://www.uni-bielefeld.de/). I work in the Computational Linguistics group ([CLAUSE](https://clause-bielefeld.github.io/)) under the supervision of [Prof. Sina Zarrieß](https://sinazarriess.github.io/). I am also a member of the collaborative research center [(CRC) 1646 -- **L**inguistic **C**reativity in **C**ommunication](https://www.uni-bielefeld.de/sfb/sfb1646/) in Bielefeld. Before my PhD, I studied English/American Studies and Computer Science at [Friedrich Schiller University Jena](https://www.uni-jena.de/) in Germany and [Katholieke Universiteit Leuven](https://www.kuleuven.be/kuleuven/) in Belgium. In Jena I helped to develop the corpus annotation tool [Hexatomic](https://hexatomic.github.io/) and also worked at the [English department](https://www.iaa.uni-jena.de/).
 
-I am interested in the relationship between (especially usage-based and cognitive approaches to) linguistics on the one hand, and natural language processing on the other hand. The neural turn in NLP has realized many ideas already proposed much earlier in the literature on connectionist modelling. Yet, it remains elusive how well state-of-the-art models and the cognitive/linguistic reality actually map to one another. In my research, I explore the ways in which linguistic knowledge emerges in human language learners and neural language models -- mostly from a usage-based and constructionist perspective. Lately, my research focus in this direction has been on very small language models trained with small amounts of data, and their comparability to child language development.
+I am interested in the relationship between (especially usage-based and cognitive approaches to) linguistics on the one hand, and natural language processing on the other hand. The neural turn in NLP has realized many ideas already proposed much earlier in the literature on connectionist modelling. Yet, it remains elusive how well state-of-the-art models and the cognitive/linguistic reality actually map to one another. In my research, I explore the ways in which linguistic knowledge emerges in human language learners and neural language models -- mostly from a usage-based and constructionist perspective. Currently, my research focus in this direction lies on very small language models trained with small amounts of data, and their comparability to child language development -- lately also from a multilingual perspective!
 
 If you are looking for ways to contact me, check out [my page in the Bielefeld University staff directory](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=419963705) or send me an email (firstname.lastname@uni-bielefeld.de).
 
@@ -23,12 +23,13 @@ If you are looking for ways to contact me, check out [my page in the Bielefeld U
 For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/citations?user=yALZ_7kAAAAJ&hl), [PUB - Publications at Bielefeld University](https://pub.uni-bielefeld.de/person/419963705) and my [ORCID page](https://orcid.org/0000-0002-1832-4068).
 
 #### Preprints
-- **Bastian Bunzeck**, Daniel Duran and Sina Zarrieß. 2025. Do Construction Distributions Shape Formal Language Learning In German BabyLMs? <https://arxiv.org/abs/2503.11593>
-- **Bastian Bunzeck** and Sina Zarrieß. 2025. Subword models struggle with word learning, but surprisal hides it. <https://arxiv.org/abs/2502.12835>
+- **Bastian Bunzeck**, Daniel Duran and Sina Zarrieß. 2025. Do Construction Distributions Shape Formal Language Learning In German BabyLMs? <https://arxiv.org/abs/2503.11593> (Conditionally accepted at CoNLL 2025)
+- **Bastian Bunzeck** and Sina Zarrieß. 2025. Subword models struggle with word learning, but surprisal hides it. <https://arxiv.org/abs/2502.12835> (Accepted at ACL 2025 Main)
 
 #### Conference/Workshop Papers
 
 - **Bastian Bunzeck**, Daniel Duran, Leonie Schade, and Sina Zarrieß. 2025. Small language models also work with small vocabularies: Probing the linguistic abilities of grapheme- and phoneme-based baby llamas. In *Proceedings of the 31st International Conference on Computational Linguistics*, pages 6039–6048, Abu Dhabi, UAE. Association for Computational Linguistics. <https://aclanthology.org/2025.coling-main.404/>
+- **Bastian Bunzeck**, Daniel Duran, Leonie Schade, and Sina Zarrieß. 2024. Graphemes vs. phonemes: battling it out in character-based language models. In *The 2nd BabyLM Challenge at the 28th Conference on Computational Natural Language Learning*, pages 54–64, Miami, FL, USA. Association for Computational Linguistics. <https://aclanthology.org/2024.conll-babylm.5/>
 - **Bastian Bunzeck** and Sina Zarrieß. 2024. The SlayQA benchmark of social reasoning: Testing gender-inclusive generalization with neopronouns. In *Proceedings of the 2nd GenBench Workshop on Generalisation (Benchmarking) in NLP*, pages 42–53, Miami, Florida, USA. Association for Computational Linguistics. <https://aclanthology.org/2024.genbench-1.3/>
 - **Bastian Bunzeck** and Sina Zarrieß. 2024. Fifty shapes of BLiMP: Syntactic learning curves in language models are not uniform, but sometimes unruly. In *Proceedings of the 2024 CLASP Conference on Multimodality and Interaction in Language Learning*, pages 39–55, Gothenburg, Sweden. Association for Computational Linguistics. <https://aclanthology.org/2024.clasp-1.7/>
 - **Bastian Bunzeck** and Sina Zarrieß. 2023. GPT-wee: How small can a small language model really get? In *Proceedings of the BabyLM Challenge at the 27th Conference on Computational Natural Language Learning*, pages 7–18, Singapore. Association for Computational Linguistics. <https://aclanthology.org/2023.conll-babylm.2/>
@@ -43,6 +44,10 @@ For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/
 
 <hr>
 ## Talks and presentations
+
+#### 2025
+- *What LLMs can do for linguistics...and what linguistics can do for LLMs*, (invited guest lecture, undergrad course on empirical linguistics), Heinrich Heine Universität Düsseldorf (Germany)  
+- *Word learning in (all kinds of) German and English BabyLMs*, (poster presentation), HumanCLAIM Workshop, University of Göttingen (Germany)
 
 #### 2024
 - *Fifty shapes of BLiMP: syntactic learning curves in language models are not uniform, but sometimes unruly*, (non-archival poster presentation), BlackboxNLP 2024 at EMNLP 2024, Miami/Florida (US)
