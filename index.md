@@ -23,8 +23,8 @@ If you are looking for ways to contact me, check out [my page in the Bielefeld U
 For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/citations?user=yALZ_7kAAAAJ&hl), [PUB - Publications at Bielefeld University](https://pub.uni-bielefeld.de/person/419963705) and my [ORCID page](https://orcid.org/0000-0002-1832-4068).
 
 #### Preprints
-- **Bastian Bunzeck**, Daniel Duran and Sina Zarrieß. 2025. Do Construction Distributions Shape Formal Language Learning In German BabyLMs? <https://arxiv.org/abs/2503.11593> (Conditionally accepted at CoNLL 2025)
-- **Bastian Bunzeck** and Sina Zarrieß. 2025. Subword models struggle with word learning, but surprisal hides it. <https://arxiv.org/abs/2502.12835> (Accepted at ACL 2025 Main)
+- **Bastian Bunzeck**, Daniel Duran and Sina Zarrieß. 2025. Do Construction Distributions Shape Formal Language Learning In German BabyLMs? <https://arxiv.org/abs/2503.11593> (To appear at CoNLL 2025)
+- **Bastian Bunzeck** and Sina Zarrieß. 2025. Subword models struggle with word learning, but surprisal hides it. <https://arxiv.org/abs/2502.12835> (To appear at ACL 2025 Main)
 
 #### Conference/Workshop Papers
 
@@ -38,7 +38,7 @@ For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/
 
 #### Journal papers
 
-- **Bastian Bunzeck** and Holger Diessel. 2024. The richness of the stimulus: Constructional variation and development in child-directed speech. *First Language*. <https://doi.org/10.1177/01427237241303225>
+- **Bastian Bunzeck** and Holger Diessel. 2025. The richness of the stimulus: Constructional variation and development in child-directed speech. *First Language*, 45(2):152–176. <https://doi.org/10.1177/01427237241303225>
 - Paula Wojcik, **Bastian Bunzeck**, and Sina Zarrieß. 2023. The Wikipedia Republic of Literary Characters. *Journal of Cultural Analytics*, 8(2). <https://doi.org/10.22148/001c.70251<>
 - Stephan Druskat, Thomas Krause, Clara Lachenmaier, and **Bastian Bunzeck**. 2023. Hexatomic: An extensible, OS-independent platform for deep multi-layer linguistic annotation of corpora. *Journal of Open Source Software*, 8(86):4825. <https://doi.org/10.21105/joss.04825>
 
@@ -46,7 +46,8 @@ For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/
 ## Talks and presentations
 
 #### 2025
-- *What LLMs can do for linguistics...and what linguistics can do for LLMs*, (invited guest lecture, undergrad course on empirical linguistics), Heinrich Heine Universität Düsseldorf (Germany)  
+- *What LLMs can do for linguistics...and what linguistics can do for LLMs*, (invited guest lecture, seminar on empirical linguistics), Heinrich Heine Universität Düsseldorf (Germany)
+- *Word learning in LMs: A trilogy in four parts*, (oral presentation), 1st RTG SFB 1646 \& Friends Symposium, Bielefeld University (Germany)
 - *Word learning in (all kinds of) German and English BabyLMs*, (poster presentation), HumanCLAIM Workshop, University of Göttingen (Germany)
 
 #### 2024
@@ -61,6 +62,10 @@ For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/
 
 <hr>
 ## Teaching
+
+#### Winter term 2025/2026
+- Introduction to computational linguistics *(Einführung in die Computerlinguistik)* -- practical sessions, accompanying lectures by Sina Zarrieß
+- Methods of applied computational linguistics *(Methoden der angewandten Computerlinguistik)* -- lectures and practical sessions, taught jointly with Sina Zarrieß
 
 #### Summer term 2025
 - Neural nets in language technology -- seminar (taught in English)
