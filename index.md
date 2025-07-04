@@ -3,15 +3,15 @@ title: Learning language(s)
 subtitle: How humans do and machines can do too.
 author: Bastian Bunzeck
 author-url: "https://bbunzeck.github.io"
-date: Jun '25
+date: Jul '25
 lang: en
 toc-title: Contents
-version: 🔮.2
+version: ☄️.3
 ---
 
 ## About me
 
-Hi! My name is Bastian Bunzeck and I am a second year PhD student at [Bielefeld University](https://www.uni-bielefeld.de/). I work in the Computational Linguistics group ([CLAUSE](https://clause-bielefeld.github.io/)) under the supervision of [Prof. Sina Zarrieß](https://sinazarriess.github.io/). I am also a member of the collaborative research center [(CRC) 1646 -- **L**inguistic **C**reativity in **C**ommunication](https://www.uni-bielefeld.de/sfb/sfb1646/) in Bielefeld. Before my PhD, I studied English/American Studies and Computer Science at [Friedrich Schiller University Jena](https://www.uni-jena.de/) in Germany and [Katholieke Universiteit Leuven](https://www.kuleuven.be/kuleuven/) in Belgium. In Jena I helped to develop the corpus annotation tool [Hexatomic](https://hexatomic.github.io/) and also worked at the [English department](https://www.iaa.uni-jena.de/).
+Hi! My name is Bastian Bunzeck and I am a third year PhD student at [Bielefeld University](https://www.uni-bielefeld.de/). I work in the Computational Linguistics group ([CLAUSE](https://clause-bielefeld.github.io/)) under the supervision of [Prof. Sina Zarrieß](https://sinazarriess.github.io/). I am also a member of the collaborative research center [(CRC) 1646 -- **L**inguistic **C**reativity in **C**ommunication](https://www.uni-bielefeld.de/sfb/sfb1646/) in Bielefeld. Before my PhD, I studied English/American Studies and Computer Science at [Friedrich Schiller University Jena](https://www.uni-jena.de/) in Germany and [Katholieke Universiteit Leuven](https://www.kuleuven.be/kuleuven/) in Belgium. In Jena I helped to develop the corpus annotation tool [Hexatomic](https://hexatomic.github.io/) and also worked at the [English department](https://www.iaa.uni-jena.de/).
 
 I am interested in the relationship between (especially usage-based and cognitive approaches to) linguistics on the one hand, and natural language processing on the other hand. The neural turn in NLP has realized many ideas already proposed much earlier in the literature on connectionist modelling. Yet, it remains elusive how well state-of-the-art models and the cognitive/linguistic reality actually map to one another. In my research, I explore the ways in which linguistic knowledge emerges in human language learners and neural language models -- mostly from a usage-based and constructionist perspective. Currently, my research focus in this direction lies on very small language models trained with small amounts of data, and their comparability to child language development -- lately also from a multilingual perspective!
 
