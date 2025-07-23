@@ -24,10 +24,10 @@ For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/
 
 #### Preprints
 - **Bastian Bunzeck**, Daniel Duran and Sina Zarrieß. 2025. Do Construction Distributions Shape Formal Language Learning In German BabyLMs? <https://arxiv.org/abs/2503.11593> (To appear at CoNLL 2025)
-- **Bastian Bunzeck** and Sina Zarrieß. 2025. Subword models struggle with word learning, but surprisal hides it. <https://arxiv.org/abs/2502.12835> (To appear at ACL 2025 Main)
 
 #### Conference/Workshop Papers
 
+- **Bastian Bunzeck** and Sina Zarrieß. 2025. Subword models struggle with word learning, but surprisal hides it. In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)*, pages 286–300, Vienna, Austria. Association for Computational Linguistics. <https://aclanthology.org/2025.acl-short.24/>
 - **Bastian Bunzeck**, Daniel Duran, Leonie Schade, and Sina Zarrieß. 2025. Small language models also work with small vocabularies: Probing the linguistic abilities of grapheme- and phoneme-based baby llamas. In *Proceedings of the 31st International Conference on Computational Linguistics*, pages 6039–6048, Abu Dhabi, UAE. Association for Computational Linguistics. <https://aclanthology.org/2025.coling-main.404/>
 - **Bastian Bunzeck**, Daniel Duran, Leonie Schade, and Sina Zarrieß. 2024. Graphemes vs. phonemes: battling it out in character-based language models. In *The 2nd BabyLM Challenge at the 28th Conference on Computational Natural Language Learning*, pages 54–64, Miami, FL, USA. Association for Computational Linguistics. <https://aclanthology.org/2024.conll-babylm.5/>
 - **Bastian Bunzeck** and Sina Zarrieß. 2024. The SlayQA benchmark of social reasoning: Testing gender-inclusive generalization with neopronouns. In *Proceedings of the 2nd GenBench Workshop on Generalisation (Benchmarking) in NLP*, pages 42–53, Miami, Florida, USA. Association for Computational Linguistics. <https://aclanthology.org/2024.genbench-1.3/>
