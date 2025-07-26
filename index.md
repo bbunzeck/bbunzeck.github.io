@@ -22,11 +22,10 @@ If you are looking for ways to contact me, check out [my page in the Bielefeld U
 
 For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/citations?user=yALZ_7kAAAAJ&hl), [PUB - Publications at Bielefeld University](https://pub.uni-bielefeld.de/person/419963705) and my [ORCID page](https://orcid.org/0000-0002-1832-4068).
 
-#### Preprints
-- **Bastian Bunzeck**, Daniel Duran and Sina Zarrieß. 2025. Do Construction Distributions Shape Formal Language Learning In German BabyLMs? <https://arxiv.org/abs/2503.11593> (To appear at CoNLL 2025)
 
 #### Conference/Workshop Papers
 
+- **Bastian Bunzeck**, Daniel Duran, and Sina Zarrieß. 2025. Do Construction Distributions Shape Formal Language Learning In German BabyLMs?. In *Proceedings of the 29th Conference on Computational Natural Language Learning*, pages 169–186, Vienna, Austria. Association for Computational Linguistics. <https://aclanthology.org/2025.conll-1.12/>
 - **Bastian Bunzeck** and Sina Zarrieß. 2025. Subword models struggle with word learning, but surprisal hides it. In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)*, pages 286–300, Vienna, Austria. Association for Computational Linguistics. <https://aclanthology.org/2025.acl-short.24/>
 - **Bastian Bunzeck**, Daniel Duran, Leonie Schade, and Sina Zarrieß. 2025. Small language models also work with small vocabularies: Probing the linguistic abilities of grapheme- and phoneme-based baby llamas. In *Proceedings of the 31st International Conference on Computational Linguistics*, pages 6039–6048, Abu Dhabi, UAE. Association for Computational Linguistics. <https://aclanthology.org/2025.coling-main.404/>
 - **Bastian Bunzeck**, Daniel Duran, Leonie Schade, and Sina Zarrieß. 2024. Graphemes vs. phonemes: battling it out in character-based language models. In *The 2nd BabyLM Challenge at the 28th Conference on Computational Natural Language Learning*, pages 54–64, Miami, FL, USA. Association for Computational Linguistics. <https://aclanthology.org/2024.conll-babylm.5/>
@@ -39,7 +38,7 @@ For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/
 #### Journal papers
 
 - **Bastian Bunzeck** and Holger Diessel. 2025. The richness of the stimulus: Constructional variation and development in child-directed speech. *First Language*, 45(2):152–176. <https://doi.org/10.1177/01427237241303225>
-- Paula Wojcik, **Bastian Bunzeck**, and Sina Zarrieß. 2023. The Wikipedia Republic of Literary Characters. *Journal of Cultural Analytics*, 8(2). <https://doi.org/10.22148/001c.70251<>
+- Paula Wojcik, **Bastian Bunzeck**, and Sina Zarrieß. 2023. The Wikipedia Republic of Literary Characters. *Journal of Cultural Analytics*, 8(2). <https://doi.org/10.22148/001c.70251>
 - Stephan Druskat, Thomas Krause, Clara Lachenmaier, and **Bastian Bunzeck**. 2023. Hexatomic: An extensible, OS-independent platform for deep multi-layer linguistic annotation of corpora. *Journal of Open Source Software*, 8(86):4825. <https://doi.org/10.21105/joss.04825>
 
 <hr>
