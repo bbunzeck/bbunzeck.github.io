@@ -3,10 +3,10 @@ title: Learning language(s)
 subtitle: How humans do and machines can do too.
 author: Bastian Bunzeck
 author-url: "https://bbunzeck.github.io"
-date: Jul '25
+date: Sep '25
 lang: en
 toc-title: Contents
-version: ☄️.3
+version: 🥑.4
 ---
 
 ## About me
@@ -45,6 +45,9 @@ For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/
 ## Talks and presentations
 
 #### 2025
+- *Do Construction Distributions Shape Formal Language Learning In German BabyLMs?*, (non-archival poster presentation), The Second International Workshop on Construction Grammars and NLP (CxGs+NLP 2025), Düsseldorf (Germany)
+- *Developmentally plausible pretraining, now also auf Deutsch: a BabyLM Dataset for German,* (non-archival poster presentation), KONVENS 2025, University of Hildesheim (Germany)
+- *Child-directed speech is fine-tuned to children’s developmental needs*, (peer-reviewed poster presentation), Bialogue 2025 – The 29th Workshop on the Semantics and Pragmatics of Dialogue, Bielefeld University (Germany)
 - *What LLMs can do for linguistics...and what linguistics can do for LLMs*, (invited guest lecture, seminar on empirical linguistics), Heinrich Heine Universität Düsseldorf (Germany)
 - *Word learning in LMs: A trilogy in four parts*, (oral presentation), 1st RTG SFB 1646 \& Friends Symposium, Bielefeld University (Germany)
 - *Word learning in (all kinds of) German and English BabyLMs*, (poster presentation), HumanCLAIM Workshop, University of Göttingen (Germany)
