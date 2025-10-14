@@ -3,10 +3,10 @@ title: Learning language(s)
 subtitle: How humans do and machines can do too.
 author: Bastian Bunzeck
 author-url: "https://bbunzeck.github.io"
-date: Sep '25
+date: Oct '25
 lang: en
 toc-title: Contents
-version: 🥑.4
+version: 🧇.4
 ---
 
 ## About me
@@ -22,6 +22,8 @@ If you are looking for ways to contact me, check out [my page in the Bielefeld U
 
 For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/citations?user=yALZ_7kAAAAJ&hl), [PUB - Publications at Bielefeld University](https://pub.uni-bielefeld.de/person/419963705) and my [ORCID page](https://orcid.org/0000-0002-1832-4068).
 
+#### Preprints
+- Jaap Jumelet, Abdellah Fourtassi, Akari Haga, **Bastian Bunzeck**, Bhargav Shandilya, Diana Galvan-Sosa, Faiz Ghifari Haznitrama, Francesca Padovani, Francois Meyer, Hai Hu, Julen Etxaniz, Laurent Prévot, Linyang He, María Grandury, Mila Marcheva, Negar Foroutan, Nikitas Theodoropoulos, Pouya Sadeghi, Siyuan Song, Suchir Salhan, Susana Zhou, Yurii Paniv, Ziyin Zhang, Arianna Bisazza, Alex Warstadt, and Leshem Choshen. 2025. *BabyBabelLM: A Multilingual Benchmark of Developmentally Plausible Training Data*. <https://arxiv.org/abs/2510.10159>
 
 #### Conference/Workshop Papers
 
@@ -40,6 +42,9 @@ For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/
 - **Bastian Bunzeck** and Holger Diessel. 2025. The richness of the stimulus: Constructional variation and development in child-directed speech. *First Language*, 45(2):152–176. <https://doi.org/10.1177/01427237241303225>
 - Paula Wojcik, **Bastian Bunzeck**, and Sina Zarrieß. 2023. The Wikipedia Republic of Literary Characters. *Journal of Cultural Analytics*, 8(2). <https://doi.org/10.22148/001c.70251>
 - Stephan Druskat, Thomas Krause, Clara Lachenmaier, and **Bastian Bunzeck**. 2023. Hexatomic: An extensible, OS-independent platform for deep multi-layer linguistic annotation of corpora. *Journal of Open Source Software*, 8(86):4825. <https://doi.org/10.21105/joss.04825>
+
+#### Miscellaneous
+- **Bastian Bunzeck** and Stefan Hartmann. 2025. Thomas Herbst and Thomas Hoffmann, A Construction Grammar of the English language: CASA – a constructionist approach to syntactic analysis (Cognitive Linguistics in Practice 5). Amsterdam and Philadelphia: John Benjamins, 2024. Pp. xvi + 315. ISBN 9789027214980. *English Language and Linguistics*, pages 1–5. <https://doi.org/10.1017/S1360674325100506>
 
 <hr>
 ## Talks and presentations
