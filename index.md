@@ -1,12 +1,12 @@
 ---
 title: Learning language(s)
-subtitle: How humans do and machines can do too.
+subtitle: How humans do and machines might.
 author: Bastian Bunzeck
 author-url: "https://bbunzeck.github.io"
-date: Oct '25
+date: Nov '25
 lang: en
 toc-title: Contents
-version: 🧇.4
+version: 🔬.7
 ---
 
 ## About me
@@ -27,6 +27,7 @@ For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/
 
 #### Conference/Workshop Papers
 
+- Francesca Padovani, **Bastian Bunzeck**, Manar Ali, Omar Momen, Arianna Bisazza, Hendrik Buschmeier, and Sina Zarrieß. 2025. Dialogue is not enough to make a communicative BabyLM (but neither is developmentally inspired reinforcement learning). In *Proceedings of the First BabyLM Workshop*, pages 421–435, Suzhou, China. Association for Computational Linguistics. <https://aclanthology.org/2025.babylm-main.29/>
 - **Bastian Bunzeck**, Daniel Duran, and Sina Zarrieß. 2025. Do Construction Distributions Shape Formal Language Learning In German BabyLMs?. In *Proceedings of the 29th Conference on Computational Natural Language Learning*, pages 169–186, Vienna, Austria. Association for Computational Linguistics. <https://aclanthology.org/2025.conll-1.12/>
 - **Bastian Bunzeck** and Sina Zarrieß. 2025. Subword models struggle with word learning, but surprisal hides it. In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)*, pages 286–300, Vienna, Austria. Association for Computational Linguistics. <https://aclanthology.org/2025.acl-short.24/>
 - **Bastian Bunzeck**, Daniel Duran, Leonie Schade, and Sina Zarrieß. 2025. Small language models also work with small vocabularies: Probing the linguistic abilities of grapheme- and phoneme-based baby llamas. In *Proceedings of the 31st International Conference on Computational Linguistics*, pages 6039–6048, Abu Dhabi, UAE. Association for Computational Linguistics. <https://aclanthology.org/2025.coling-main.404/>
