@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="$lang$" xml:lang="$lang$"$if(dir)$ dir="$dir$"$endif$>
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+$for(author-meta)$
+  <meta name="author" content="$author-meta$" />
+$endfor$
+$if(date-meta)$
+  <meta name="dcterms.date" content="$date-meta$" />
+$endif$
+  <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
+$for(css)$
+  <link rel="stylesheet" href="$css$" />
+$endfor$
+$if(background-gradient)$
+  <style>:root { --background-color: $background-gradient$; }</style>
+$elseif(background-color)$
+  <style>:root { --background-color: $background-color$; }</style>
+$endif$
+</head>
+<body>
+<table class="header">
+  <tr>
+    <td colspan="2" class="width-auto">
+      <h1 class="title">$title$</h1>
+    </td>
+  </tr>
+  <tr>
+    <th class="width-min">Date</th>
+    <td class="width-auto">$date$</td>
+  </tr>
+  <tr>
+    <th class="width-min">Author</th>
+    <td class="width-auto">$author$</td>
+  </tr>
+</table>
+$body$
+  <nav class="sticky-nav">
+    <a href="../blog_index.html">&larr; Blog</a>
+    <a href="../index.html">&uarr; Home</a>
+  </nav>
+  <div class="debug-grid"></div>
+</body>
+</html>

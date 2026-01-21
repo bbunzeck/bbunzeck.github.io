@@ -26,6 +26,11 @@ $endfor$
 $if(math)$
   $math$
 $endif$
+$if(background-gradient)$
+  <style>:root { --background-color: $background-gradient$; }</style>
+$elseif(background-color)$
+  <style>:root { --background-color: $background-color$; }</style>
+$endif$
 </head>
 <body>
 $for(include-before)$
@@ -69,6 +74,11 @@ $body$
 $for(include-after)$
 $include-after$
 $endfor$
+$if(back-link)$
+  <nav class="sticky-nav">
+    <a href="$back-link$">&larr; $if(back-text)$$back-text$$else$Back$endif$</a>
+  </nav>
+$endif$
   <div class="debug-grid"></div>
   <script src="index.js"></script>
 </body>
