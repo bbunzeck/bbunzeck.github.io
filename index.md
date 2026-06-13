@@ -5,7 +5,7 @@ author: Bastian Bunzeck
 author-url: "https://bbunzeck.github.io"
 date: Jun '26
 lang: en
-toc-title: Contents
+toc: false
 version: 🍋.9
 background-color: "#123456"
 background-gradient: "linear-gradient(135deg, #fce7f3 0%, #e9d5ff 50%, #dbeafe 100%)"
