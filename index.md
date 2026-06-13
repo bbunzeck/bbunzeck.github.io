@@ -3,26 +3,25 @@ title: Learning language(s)
 subtitle: How humans do and machines might.
 author: Bastian Bunzeck
 author-url: "https://bbunzeck.github.io"
-date: Jan '26
+date: Jun '26
 lang: en
 toc-title: Contents
-version: 🧮.8
+version: 🍋.9
 background-color: "#123456"
 background-gradient: "linear-gradient(135deg, #fce7f3 0%, #e9d5ff 50%, #dbeafe 100%)"
 ---
 
+## About me
+
+Hi! I am a fourth-year PhD student, currently visiting Alex Warstadt's [LeM🍋N Lab](https://lemn-lab.github.io/) at UCSD! Normally I work at [Bielefeld University](https://www.uni-bielefeld.de/) in the Computational Linguistics group ([CLAUSE](https://clause-bielefeld.github.io/)), supervised by Sina Zarrieß. I am also a member of [(CRC) 1646 -- **L**inguistic **C**reativity in **C**ommunication](https://www.uni-bielefeld.de/sfb/sfb1646/) in Bielefeld. Before that, I studied English/American Studies and Computer Science at [Friedrich Schiller University Jena](https://www.uni-jena.de/) in Germany and [Katholieke Universiteit Leuven](https://www.kuleuven.be/kuleuven/) in Belgium. 
+
+I am interested in the relationship between (especially usage-based and cognitive approaches to) linguistics on the one hand, and NLP on the other hand. The neural turn in ML has realized many ideas originating from old-school connectionism. Yet, it remains elusive how well SOTA models and the cognitive reality actually map to each other. In my research, I explore the ways in which linguistic knowledge emerges in human language learners and neural language models, with a focus on small LMs trained with little data, and their comparability to child language development.
+
+If you want to contact me, check out [the Bielefeld University staff directory](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=419963705) or send me an email (firstname.lastname@uni-bielefeld.de).
 
 ## Blog
 
 I am thinking about starting a [blog](blog_index.html). Content (probably) coming soon!
-
-## About me
-
-Hi! My name is Bastian Bunzeck and I am a third year PhD student at [Bielefeld University](https://www.uni-bielefeld.de/). I work in the Computational Linguistics group ([CLAUSE](https://clause-bielefeld.github.io/)) under the supervision of [Prof. Sina Zarrieß](https://sinazarriess.github.io/). I am also a member of the collaborative research center [(CRC) 1646 -- **L**inguistic **C**reativity in **C**ommunication](https://www.uni-bielefeld.de/sfb/sfb1646/) in Bielefeld. Before my PhD, I studied English/American Studies and Computer Science at [Friedrich Schiller University Jena](https://www.uni-jena.de/) in Germany and [Katholieke Universiteit Leuven](https://www.kuleuven.be/kuleuven/) in Belgium. In Jena I helped to develop the corpus annotation tool [Hexatomic](https://hexatomic.github.io/) and also worked at the [English department](https://www.iaa.uni-jena.de/).
-
-I am interested in the relationship between (especially usage-based and cognitive approaches to) linguistics on the one hand, and natural language processing on the other hand. The neural turn in NLP has realized many ideas already proposed much earlier in the literature on connectionist modelling. Yet, it remains elusive how well state-of-the-art models and the cognitive/linguistic reality actually map to one another. In my research, I explore the ways in which linguistic knowledge emerges in human language learners and neural language models -- mostly from a usage-based and constructionist perspective. Currently, my research focus in this direction lies on very small language models trained with small amounts of data, and their comparability to child language development -- lately also from a multilingual perspective!
-
-If you are looking for ways to contact me, check out [my page in the Bielefeld University staff directory](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=419963705) or send me an email (firstname.lastname@uni-bielefeld.de).
 
 ## Publications
 
@@ -31,43 +30,69 @@ For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/
 <details>
 <summary>Preprints</summary>
 
-- Jaap Jumelet, Abdellah Fourtassi, Akari Haga, **Bastian Bunzeck**, Bhargav Shandilya, Diana Galvan-Sosa, Faiz Ghifari Haznitrama, Francesca Padovani, Francois Meyer, Hai Hu, Julen Etxaniz, Laurent Prévot, Linyang He, María Grandury, Mila Marcheva, Negar Foroutan, Nikitas Theodoropoulos, Pouya Sadeghi, Siyuan Song, Suchir Salhan, Susana Zhou, Yurii Paniv, Ziyin Zhang, Arianna Bisazza, Alex Warstadt, and Leshem Choshen. 2025. *BabyBabelLM: A Multilingual Benchmark of Developmentally Plausible Training Data*. <https://arxiv.org/abs/2510.10159>
+- [*Child-directed speech facilitates production, not comprehension, in BabyLMs*](https://arxiv.org/abs/2606.01045) [2026]<br>
+  Bastian Bunzeck<span class="co">, Sina Zarrieß</span>. ***Preprint***.
+- [*CAIT: A Syntactic Parsing Toolkit for Child-Adult InTeractions*](https://arxiv.org/abs/2605.19718) [2026]<br>
+  <span class="co">Francesca Padovani, Xiulin Yang, </span>Bastian Bunzeck<span class="co">, Jaap Jumelet, Yevgen Matusevych, Nathan Schneider, Arianna Bisazza</span>. ***Preprint***.
 
 </details>
 
 <details>
 <summary>Conference/Workshop Papers</summary>
 
-- Francesca Padovani, **Bastian Bunzeck**, Manar Ali, Omar Momen, Arianna Bisazza, Hendrik Buschmeier, and Sina Zarrieß. 2025. Dialogue is not enough to make a communicative BabyLM (but neither is developmentally inspired reinforcement learning). In *Proceedings of the First BabyLM Workshop*, pages 421–435, Suzhou, China. Association for Computational Linguistics. <https://aclanthology.org/2025.babylm-main.29/>
-- **Bastian Bunzeck**, Daniel Duran, and Sina Zarrieß. 2025. Do Construction Distributions Shape Formal Language Learning In German BabyLMs?. In *Proceedings of the 29th Conference on Computational Natural Language Learning*, pages 169–186, Vienna, Austria. Association for Computational Linguistics. <https://aclanthology.org/2025.conll-1.12/>
-- **Bastian Bunzeck** and Sina Zarrieß. 2025. Subword models struggle with word learning, but surprisal hides it. In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)*, pages 286–300, Vienna, Austria. Association for Computational Linguistics. <https://aclanthology.org/2025.acl-short.24/>
-- **Bastian Bunzeck**, Daniel Duran, Leonie Schade, and Sina Zarrieß. 2025. Small language models also work with small vocabularies: Probing the linguistic abilities of grapheme- and phoneme-based baby llamas. In *Proceedings of the 31st International Conference on Computational Linguistics*, pages 6039–6048, Abu Dhabi, UAE. Association for Computational Linguistics. <https://aclanthology.org/2025.coling-main.404/>
-- **Bastian Bunzeck**, Daniel Duran, Leonie Schade, and Sina Zarrieß. 2024. Graphemes vs. phonemes: battling it out in character-based language models. In *The 2nd BabyLM Challenge at the 28th Conference on Computational Natural Language Learning*, pages 54–64, Miami, FL, USA. Association for Computational Linguistics. <https://aclanthology.org/2024.conll-babylm.5/>
-- **Bastian Bunzeck** and Sina Zarrieß. 2024. The SlayQA benchmark of social reasoning: Testing gender-inclusive generalization with neopronouns. In *Proceedings of the 2nd GenBench Workshop on Generalisation (Benchmarking) in NLP*, pages 42–53, Miami, Florida, USA. Association for Computational Linguistics. <https://aclanthology.org/2024.genbench-1.3/>
-- **Bastian Bunzeck** and Sina Zarrieß. 2024. Fifty shapes of BLiMP: Syntactic learning curves in language models are not uniform, but sometimes unruly. In *Proceedings of the 2024 CLASP Conference on Multimodality and Interaction in Language Learning*, pages 39–55, Gothenburg, Sweden. Association for Computational Linguistics. <https://aclanthology.org/2024.clasp-1.7/>
-- **Bastian Bunzeck** and Sina Zarrieß. 2023. GPT-wee: How small can a small language model really get? In *Proceedings of the BabyLM Challenge at the 27th Conference on Computational Natural Language Learning*, pages 7–18, Singapore. Association for Computational Linguistics. <https://aclanthology.org/2023.conll-babylm.2/>
-- **Bastian Bunzeck** and Sina Zarrieß. 2023. Entrenchment matters: Investigating positional and constructional sensitivity in small and large language models. In *Proceedings of the 2023 CLASP Conference on Learning with Small Data (LSD)*, pages 25–37, Gothenburg, Sweden. Association for Computational Linguistics. <https://aclanthology.org/2023.clasp-1.3>
+- [*BabyBabelLM: A Multilingual Benchmark of Developmentally Plausible Training Data*](https://aclanthology.org/2026.eacl-long.152/) [2026]<br>
+  <span class="co">Jaap Jumelet, Abdellah Fourtassi, Akari Haga, </span>Bastian Bunzeck<span class="co">, Bhargav Shandilya, Diana Galvan-Sosa, Faiz Ghifari Haznitrama, Francesca Padovani, Francois Meyer, Hai Hu, Julen Etxaniz, Laurent Prevot, Linyang He, María Grandury, Mila Marcheva, Negar Foroutan, Nikitas Theodoropoulos, Pouya Sadeghi, Siyuan Song, Suchir Salhan, Susana Zhou, Yurii Paniv, Ziyin Zhang, Arianna Bisazza, Alex Warstadt, and Leshem Choshen</span>. ***EACL 2026***.
+- [*Dialogue is not enough to make a communicative BabyLM (but neither is developmentally inspired reinforcement learning)*](https://aclanthology.org/2025.babylm-main.29/) [2025]<br>
+  <span class="co">Francesca Padovani, </span>Bastian Bunzeck<span class="co">, Manar Ali, Omar Momen, Arianna Bisazza, Hendrik Buschmeier, and Sina Zarrieß</span>. ***BabyLM Workshop 2025***.
+- [*Do Construction Distributions Shape Formal Language Learning In German BabyLMs?*](https://aclanthology.org/2025.conll-1.12/) [2025]<br>
+  Bastian Bunzeck<span class="co">, Daniel Duran, and Sina Zarrieß</span>. ***CoNLL 2025***.
+- [*Subword models struggle with word learning, but surprisal hides it*](https://aclanthology.org/2025.acl-short.24/) [2025]<br>
+  Bastian Bunzeck<span class="co"> and Sina Zarrieß</span>. ***ACL 2025***.
+- [*Small language models also work with small vocabularies: Probing the linguistic abilities of grapheme- and phoneme-based baby llamas*](https://aclanthology.org/2025.coling-main.404/) [2025]<br>
+  Bastian Bunzeck<span class="co">, Daniel Duran, Leonie Schade, and Sina Zarrieß</span>. ***COLING 2025***.
+- [*Graphemes vs. phonemes: battling it out in character-based language models*](https://aclanthology.org/2024.conll-babylm.5/) [2024]<br>
+  Bastian Bunzeck<span class="co">, Daniel Duran, Leonie Schade, and Sina Zarrieß</span>. ***BabyLM Challenge @ CoNLL 2024***.
+- [*The SlayQA benchmark of social reasoning: Testing gender-inclusive generalization with neopronouns*](https://aclanthology.org/2024.genbench-1.3/) [2024]<br>
+  Bastian Bunzeck<span class="co"> and Sina Zarrieß</span>. ***GenBench Workshop 2024***.
+- [*Fifty shapes of BLiMP: Syntactic learning curves in language models are not uniform, but sometimes unruly*](https://aclanthology.org/2024.clasp-1.7/) [2024]<br>
+  Bastian Bunzeck<span class="co"> and Sina Zarrieß</span>. ***CLASP 2024 (MILLing)***.
+- [*GPT-wee: How small can a small language model really get?*](https://aclanthology.org/2023.conll-babylm.2/) [2023]<br>
+  Bastian Bunzeck<span class="co"> and Sina Zarrieß</span>. ***BabyLM Challenge @ CoNLL 2023***.
+- [*Entrenchment matters: Investigating positional and constructional sensitivity in small and large language models*](https://aclanthology.org/2023.clasp-1.3) [2023]<br>
+  Bastian Bunzeck<span class="co"> and Sina Zarrieß</span>. ***CLASP 2023 (LSD)***.
 
 </details>
 
 <details>
 <summary>Journal papers</summary>
 
-- **Bastian Bunzeck** and Holger Diessel. 2025. The richness of the stimulus: Constructional variation and development in child-directed speech. *First Language*, 45(2):152–176. <https://doi.org/10.1177/01427237241303225>
-- Paula Wojcik, **Bastian Bunzeck**, and Sina Zarrieß. 2023. The Wikipedia Republic of Literary Characters. *Journal of Cultural Analytics*, 8(2). <https://doi.org/10.22148/001c.70251>
-- Stephan Druskat, Thomas Krause, Clara Lachenmaier, and **Bastian Bunzeck**. 2023. Hexatomic: An extensible, OS-independent platform for deep multi-layer linguistic annotation of corpora. *Journal of Open Source Software*, 8(86):4825. <https://doi.org/10.21105/joss.04825>
+- [*The richness of the stimulus: Constructional variation and development in child-directed speech*](https://doi.org/10.1177/01427237241303225) [2025]<br>
+  Bastian Bunzeck<span class="co"> and Holger Diessel</span>. ***First Language***, 45(2):152–176.
+- [*The Wikipedia Republic of Literary Characters*](https://doi.org/10.22148/001c.70251) [2023]<br>
+  <span class="co">Paula Wojcik, </span>Bastian Bunzeck<span class="co">, and Sina Zarrieß</span>. ***Journal of Cultural Analytics***, 8(2).
+- [*Hexatomic: An extensible, OS-independent platform for deep multi-layer linguistic annotation of corpora*](https://doi.org/10.21105/joss.04825) [2023]<br>
+  <span class="co">Stephan Druskat, Thomas Krause, Clara Lachenmaier, and </span>Bastian Bunzeck. ***Journal of Open Source Software***, 8(86):4825.
 
 </details>
 
 <details>
 <summary>Miscellaneous</summary>
 
-- **Bastian Bunzeck** and Stefan Hartmann. 2025. Thomas Herbst and Thomas Hoffmann, A Construction Grammar of the English language: CASA – a constructionist approach to syntactic analysis (Cognitive Linguistics in Practice 5). Amsterdam and Philadelphia: John Benjamins, 2024. Pp. xvi + 315. ISBN 9789027214980. *English Language and Linguistics*, pages 1–5. <https://doi.org/10.1017/S1360674325100506>
+- [*A Construction Grammar of the English language (Book review)*](https://doi.org/10.1017/S1360674325100506) [2025]<br>
+  Bastian Bunzeck<span class="co"> and Stefan Hartmann</span>. ***English Language and Linguistics***, pages 1–5.
 
 </details>
 
 <hr>
 ## Talks and presentations
+
+<details>
+<summary>2026</summary>
+- *Constructions in German child-directed and child-available language*, (peer-reviewed poster presentation), 14th International Conference on Construction Grammar, Princeton University (US)
+- *Constructing a Language Model's Language*, (poster presentation), HumanCLAIM Workshop, University of Göttingen (Germany)
+- *Towards Communicative BabyLMs*  (with Sina Zarrieß), (invited talk), HumanCLAIM Workshop, University of Göttingen (Germany)
+
+</details>
 
 <details>
 <summary>2025</summary>
@@ -103,7 +128,21 @@ For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/
 ## Teaching
 
 <details>
-<summary>Winter term 2025/2026</summary>
+<summary>Winter 2026/2027</summary>
+
+- Methods of applied computational linguistics *(Methoden der angewandten Computerlinguistik)* -- lectures and practical sessions
+
+</details>
+
+<details>
+<summary>Summer 2026</summary>
+
+- Methods of applied computational linguistics *(Methoden der angewandten Computerlinguistik)* -- lectures and practical sessions
+
+</details>
+
+<details>
+<summary>Winter 2025/2026</summary>
 
 - Introduction to computational linguistics *(Einführung in die Computerlinguistik)* -- practical sessions, accompanying lectures by Sina Zarrieß
 - Methods of applied computational linguistics *(Methoden der angewandten Computerlinguistik)* -- lectures and practical sessions, taught jointly with Sina Zarrieß
@@ -111,14 +150,14 @@ For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/
 </details>
 
 <details>
-<summary>Summer term 2025</summary>
+<summary>Summer 2025</summary>
 
 - Neural nets in language technology -- seminar (taught in English)
 
 </details>
 
 <details>
-<summary>Winter term 2024/2025</summary>
+<summary>Winter 2024/2025</summary>
 
 - Introduction to computational linguistics *(Einführung in die Computerlinguistik)* -- practical sessions, accompanying lectures by Sina Zarrieß
 - Methods of applied computational linguistics *(Methoden der angewandten Computerlinguistik)* -- lectures and practical sessions
@@ -126,7 +165,7 @@ For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/
 </details>
 
 <details>
-<summary>Summer term 2024</summary>
+<summary>Summer 2024</summary>
 
 - Methods of applied computational linguistics *(Methoden der angewandten Computerlinguistik)* -- lectures and practical sessions
 - Neural nets in language technology *(Neuronale Netze in der Sprachverarbeitung)* -- practical sessions, accompanying lectures by Sina Zarrieß
@@ -134,7 +173,7 @@ For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/
 </details>
 
 <details>
-<summary>Winter term 2023/2024</summary>
+<summary>Winter 2023/2024</summary>
 
 - Introduction to computational linguistics *(Einführung in die Computerlinguistik)* -- practical sessions, accompanying lectures by Sina Zarrieß
 - Project seminar: Modeling and analysis of dialogue *(Projektseminar: Modellierung und Analyse von sprachlichen Dialogen)*, taught jointly with Simeon Schüz
@@ -142,7 +181,7 @@ For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/
 </details>
 
 <details>
-<summary>Summer term 2023</summary>
+<summary>Summer 2023</summary>
 
 - Methods of applied computational linguistics *(Methoden der angewandten Computerlinguistik)* -- practical sessions, accompanying lectures by Sina Zarrieß
 

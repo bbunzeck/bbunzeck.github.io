@@ -22,14 +22,6 @@
   font-size: 16px;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --text-color: #fff;
-    --text-color-alt: #aaa;
-    --background-color: #000;
-    --background-color-alt: #111;
-  }
-}
 
 * {
   box-sizing: border-box;
@@ -38,6 +30,14 @@
 
 * + * {
   margin-top: var(--line-height);
+}
+
+br, br + * {
+  margin-top: 0;
+}
+
+.co {
+  color: var(--text-color-alt);
 }
 
 html {
