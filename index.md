@@ -13,11 +13,11 @@ background-gradient: "linear-gradient(135deg, #fce7f3 0%, #e9d5ff 50%, #dbeafe 1
 
 ## About me
 
-Hi! I am a fourth-year PhD student, currently visiting Alex Warstadt's [LeM🍋N Lab](https://lemn-lab.github.io/) at UCSD! Normally I work at [Bielefeld University](https://www.uni-bielefeld.de/) in the Computational Linguistics group ([CLAUSE](https://clause-bielefeld.github.io/)), supervised by Sina Zarrieß. I am also a member of [(CRC) 1646 -- **L**inguistic **C**reativity in **C**ommunication](https://www.uni-bielefeld.de/sfb/sfb1646/) in Bielefeld. Before that, I studied English/American Studies and Computer Science at [Friedrich Schiller University Jena](https://www.uni-jena.de/) in Germany and [Katholieke Universiteit Leuven](https://www.kuleuven.be/kuleuven/) in Belgium. 
+Hi! I research natural and artificial intelligences, especially the ways in which children and neural systems learn language, and why humans are so much more sample-efficient than LMs. Some recent interests of mine are child-directed speech and the nature of input data, what is learnable from different types of input, the role of interaction in language learning, developmentally plausible language models, multilingual language models, and subword-free tokenization.
 
-I am interested in the relationship between (especially usage-based and cognitive approaches to) linguistics on the one hand, and NLP on the other hand. The neural turn in ML has realized many ideas originating from old-school connectionism. Yet, it remains elusive how well SOTA models and the cognitive reality actually map to each other. In my research, I explore the ways in which linguistic knowledge emerges in human language learners and neural language models, with a focus on small LMs trained with little data, and their comparability to child language development.
+Currently I am visiting Alex Warstadt's [LeM🍋N Lab](https://lemn-lab.github.io/) at UC San Diego, otherwise I pursue a PhD at [Bielefeld University](https://www.uni-bielefeld.de/) in the Computational Linguistics group ([CLAUSE](https://clause-bielefeld.github.io/)), supervised by Sina Zarrieß. Before that, I studied Linguistics and Computer Science in [Jena](https://www.uni-jena.de/)/Germany and [Leuven](https://www.kuleuven.be/kuleuven/)/Belgium. 
 
-If you want to contact me, check out [the Bielefeld University staff directory](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=419963705) or send me an email (firstname.lastname@uni-bielefeld.de).
+If you want to contact me, just send me an email (firstname.lastname@uni-bielefeld.de).
 
 ## Blog
 
@@ -31,9 +31,9 @@ For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/
 <summary>Preprints</summary>
 
 - [*Child-directed speech facilitates production, not comprehension, in BabyLMs*](https://arxiv.org/abs/2606.01045) [2026]<br>
-  Bastian Bunzeck<span class="co">, Sina Zarrieß</span>. ***Preprint***.
+  Bastian Bunzeck<span class="co">, Sina Zarrieß</span>. ***Preprint***. To appear at CoNLL 2026.
 - [*CAIT: A Syntactic Parsing Toolkit for Child-Adult InTeractions*](https://arxiv.org/abs/2605.19718) [2026]<br>
-  <span class="co">Francesca Padovani, Xiulin Yang, </span>Bastian Bunzeck<span class="co">, Jaap Jumelet, Yevgen Matusevych, Nathan Schneider, Arianna Bisazza</span>. ***Preprint***.
+  <span class="co">Francesca Padovani, Xiulin Yang, </span>Bastian Bunzeck<span class="co">, Jaap Jumelet, Yevgen Matusevych, Nathan Schneider, Arianna Bisazza</span>. ***Preprint***. To appear at CoNLL 2026.
 
 </details>
 
