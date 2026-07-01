@@ -13,7 +13,7 @@ background-gradient: "linear-gradient(135deg, #fce7f3 0%, #e9d5ff 50%, #dbeafe 1
 
 ## About me
 
-Hi! I research natural and artificial intelligences, especially the ways in which children and neural systems learn language, and why humans are so much more sample-efficient than LMs. Some recent interests of mine are child-directed speech and the nature of input data, what is learnable from different types of input, the role of interaction in language learning, developmentally plausible language models, multilingual language models, and subword-free tokenization.
+Hi! I research natural and artificial intelligences, especially the ways in which children and neural systems learn language, and why humans are so much more sample-efficient than LMs. Some recent interests of mine are child-directed speech and the nature of input data, what is learnable from different types of input, the role of interaction in language learning, developmentally plausible language models, multilingual language models, and subword-free tokenization. I have a background in usage-based linguistics and NLP.
 
 Currently I am visiting Alex Warstadt's [LeM🍋N Lab](https://lemn-lab.github.io/) at UC San Diego, otherwise I pursue a PhD at [Bielefeld University](https://www.uni-bielefeld.de/) in the Computational Linguistics group ([CLAUSE](https://clause-bielefeld.github.io/)), supervised by Sina Zarrieß. Before that, I studied Linguistics and Computer Science in [Jena](https://www.uni-jena.de/)/Germany and [Leuven](https://www.kuleuven.be/kuleuven/)/Belgium. 
 
@@ -27,19 +27,13 @@ I am thinking about starting a [blog](blog_index.html). Content (probably) comin
 
 For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/citations?user=yALZ_7kAAAAJ&hl), [PUB - Publications at Bielefeld University](https://pub.uni-bielefeld.de/person/419963705) and my [ORCID page](https://orcid.org/0000-0002-1832-4068).
 
-<details>
-<summary>Preprints</summary>
-
-- [*Child-directed speech facilitates production, not comprehension, in BabyLMs*](https://arxiv.org/abs/2606.01045) [2026]<br>
-  Bastian Bunzeck<span class="co">, Sina Zarrieß</span>. ***Preprint***. To appear at CoNLL 2026.
-- [*CAIT: A Syntactic Parsing Toolkit for Child-Adult InTeractions*](https://arxiv.org/abs/2605.19718) [2026]<br>
-  <span class="co">Francesca Padovani, Xiulin Yang, </span>Bastian Bunzeck<span class="co">, Jaap Jumelet, Yevgen Matusevych, Nathan Schneider, Arianna Bisazza</span>. ***Preprint***. To appear at CoNLL 2026.
-
-</details>
 
 <details>
 <summary>Conference/Workshop Papers</summary>
-
+- [Child-directed speech facilitates production, not comprehension, in BabyLMs](https://aclanthology.org/2026.conll-main.14/) [2026]<br>
+  Bastian Bunzeck<span class="co"> and Sina Zarrieß</span>. ***CoNLL 2026***.
+- [CAIT: A Syntactic Parsing Toolkit for Child–Adult InTeractions](https://aclanthology.org/2026.conll-main.23/) [2026]<br>
+  <span class="co">Francesca Padovani, Xiulin Yang, </span>Bastian Bunzeck<span class="co">, Jaap Jumelet, Yevgen Matusevych, Nathan Schneider and Arianna Bisazza</span>. ***CoNLL 2026***.
 - [*BabyBabelLM: A Multilingual Benchmark of Developmentally Plausible Training Data*](https://aclanthology.org/2026.eacl-long.152/) [2026]<br>
   <span class="co">Jaap Jumelet, Abdellah Fourtassi, Akari Haga, </span>Bastian Bunzeck<span class="co">, Bhargav Shandilya, Diana Galvan-Sosa, Faiz Ghifari Haznitrama, Francesca Padovani, Francois Meyer, Hai Hu, Julen Etxaniz, Laurent Prevot, Linyang He, María Grandury, Mila Marcheva, Negar Foroutan, Nikitas Theodoropoulos, Pouya Sadeghi, Siyuan Song, Suchir Salhan, Susana Zhou, Yurii Paniv, Ziyin Zhang, Arianna Bisazza, Alex Warstadt, and Leshem Choshen</span>. ***EACL 2026***.
 - [*Dialogue is not enough to make a communicative BabyLM (but neither is developmentally inspired reinforcement learning)*](https://aclanthology.org/2025.babylm-main.29/) [2025]<br>
@@ -77,7 +71,8 @@ For up-to-date overviews also check: [Google Scholar](https://scholar.google.de/
 
 <details>
 <summary>Miscellaneous</summary>
-
+- [*No usage-based linguistics without language use (Commentary on Futrell & Mahowald 2026)*](https://doi.org/10.1017/S0140525X26104646) [2026]<br>
+  Bastian Bunzeck<span class="co">, Sina Zarrieß, Stefan Hartmann and Elena Lieven</span>. ***Behavioral and Brain Sciences***, e203.
 - [*A Construction Grammar of the English language (Book review)*](https://doi.org/10.1017/S1360674325100506) [2025]<br>
   Bastian Bunzeck<span class="co"> and Stefan Hartmann</span>. ***English Language and Linguistics***, pages 1–5.
 
